@@ -1,4 +1,4 @@
-baseURL: 'https://docs.plusstorage.get-cloud.io/'
+baseURL: 'https://docs.stor.get-cloud.io/'
 enableMissingTranslationPlaceholders: true
 enableRobotsTXT: true
 enableGitInfo: true
@@ -43,7 +43,7 @@ params:
         improve</a>.
       'no': >-
         Sorry to hear that. Please <a
-        href="https://github.com/plusserver-storge/docs/issues/new">tell us how
+        href="https://github.com/plusstorage/docs/issues/new">tell us how
         we can improve</a>.
     readingtime:
       enable: true
