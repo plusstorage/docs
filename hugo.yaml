@@ -21,7 +21,7 @@ params:
     pygmentsUseClassic: false
     pygmentsStyle: tango
   copyright: plusserver GmbH
-  privacy_policy: 'https://www.plusserver.com/en/privacy-policy'
+  privacy_policy: 'https://www.plusserver.com/datenschutzerklaerung/'
   github_repo: 'https://github.com/plusstorage/docs'
   github_branch: main
   algolia_docsearch: false
@@ -50,7 +50,7 @@ params:
   links:
     user:
       - name: plusstorage
-        url: 'https://www.plusserver.com/en/produkte/storage'
+        url: 'https://www.plusserver.com/storage-backup/'
         icon: fa-solid fa-house
         desc: plusstorage product page
       - name: GitHub
@@ -58,14 +58,14 @@ params:
         icon: fab fa-github
         desc: Development takes place here!
     developer:
-      - name: Contact
-        url: 'https://www.plusserver.com/en/about-us/plusserver-contact'
+      - name: Kontakt
+        url: 'https://www.plusserver.com/support/#contact'
         icon: fa-solid fa-phone
-        desc: plusserver GmbH Contact
-      - name: Company Information
-        url: 'https://www.plusserver.com/en/company-information'
+        desc: plusserver GmbH Kontaktinformationen
+      - name: Über Uns
+        url: 'https://www.plusserver.com/impressum/'
         icon: fa-solid fa-gavel
-        desc: plusserver GmbH Legal notice
+        desc: plusserver GmbH Impressum
 theme:
   - github.com/google/docsy
   - github.com/google/docsy/dependencies
