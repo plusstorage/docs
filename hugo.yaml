@@ -83,16 +83,8 @@ imaging:
 services: {}
 
 defaultContentLanguage: de
-defaultContentLanguageInSubdir: false
 
 languages:
-  en:
-    title: plusstorage
-    contentDir: content/en
-    languageName: English
-    languageCode: en-US
-    params:
-      description: The technical documentation for plusstorage
   de:
     title: plusstorage
     languageName: Deutsch
@@ -100,6 +92,7 @@ languages:
     contentDir: content/de
     params:
       description: Die technische Dokumentation für plusstorage
+      time_format_default: "02.01.2006"
 
 markup:
   goldmark:
